@@ -5,8 +5,8 @@ This project showcases a simple anime page developed using HTML and CSS. The pag
 **Interactive Navigation**: Users can navigate between different sections of the page using the interactive navigation menu.
 Custom Styling: Styling is implemented using CSS to create visually appealing and engaging content.
 
-**Technologies Used**
-\nHTML5
+**Technologies Used**<br>
+HTML5
 CSS3
 
 **Getting Started**
