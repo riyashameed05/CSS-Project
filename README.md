@@ -8,6 +8,7 @@ Custom Styling: Styling is implemented using CSS to create visually appealing an
 **Technologies Used**
 HTML5
 CSS3
+
 **Getting Started**
 To view the anime page, simply open the index.html file in a web browser.
 
