@@ -6,7 +6,7 @@ This project showcases a simple anime page developed using HTML and CSS. The pag
 Custom Styling: Styling is implemented using CSS to create visually appealing and engaging content.
 
 **Technologies Used**
-HTML5
+\nHTML5
 CSS3
 
 **Getting Started**
